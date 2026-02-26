@@ -1,3 +1,6 @@
+# Salzarulo Custom Docker Code
+This is for me to put in custom overides to public glithub actions, otherwise I'll lean heavily into the public classes.
+
 # Hello, World! Docker Action
 
 [![GitHub Super-Linter](https://github.com/actions/hello-world-docker-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
